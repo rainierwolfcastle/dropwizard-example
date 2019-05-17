@@ -1,6 +1,6 @@
-# Dropwizard Example Application
+# HelloWorld
 
-How to start the Dropwizard Example Application application
+How to start the HelloWorld application
 ---
 
 1. Run `mvn clean install` to build your application
